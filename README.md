@@ -9,10 +9,16 @@ This project presents a comprehensive design, implementation, and evaluation of 
 Features
 
 Speech recognition for accurate interpretation of user commands.
+
 Multilingual support for interactions in both English and Hindi languages.
+
 Integration with third-party platforms such as Wikipedia and Instagram.
+
 User authentication feature for authorized access and secure interactions.
+
 Evaluation of performance metrics including speech recognition accuracy and task execution response times.
+
+
 Installation
 
 Clone the repository:
