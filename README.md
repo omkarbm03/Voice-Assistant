@@ -19,6 +19,7 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/omkarbm03/voice-assistant.git
+
 Install dependencies:
 Copy code
 pip install -r requirements.txt
@@ -36,9 +37,14 @@ Performance metrics include speech recognition accuracy, task execution response
 Contributors
 
 Omkar Mane (omkarbalasaheb.mane@gwu.edu)
+
 Mayuresh Patil (mayureshmahesh.patil@gwu.edu)
+
 Jade Do (jade.do@gwu.edu)
+
 Swati More (swativilas.more@gwu.edu)
+
+
 References
 
 Kumar, S., & Gupta, R. (2022). Voice Assistant Using Python. International Journal for Research in Applied Science and Engineering Technology, 10(3), 145-158.
