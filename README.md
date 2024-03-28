@@ -18,7 +18,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your_username/voice-assistant.git
+git clone https://github.com/omkarbm03/voice-assistant.git
 Install dependencies:
 Copy code
 pip install -r requirements.txt
